@@ -27,7 +27,7 @@ Aplikasi ini dibangun dengan menggunakan:
 ## Installation
 - import file ke eclipsse atau java netbeans
 - import external jar jcalender dan mysql connector ke dalam file.
-- masuk ke dalam file Login dan run filenya
+- masuk ke dalam file Login dan run aplikasinya
 
 
 ## Credit
