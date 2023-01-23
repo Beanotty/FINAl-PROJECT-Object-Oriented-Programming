@@ -1,7 +1,6 @@
-# FINAl-PROJECT-Object-Oriented-Programming
-2540122716
-# Aplikasi Funtatix
-Aplikasi funtatix ini merupakan aplikasi untuk memesan sebuah tiket. Destinasinya adalah Dunia Fantasi, Jakarta Aquarium, dan Museum macan.
+
+# Aplikasi Fantastix
+Aplikasi funtatix ini merupakan aplikasi untuk memesan dan manajemen sebuah tiket. Destinasinya adalah Dunia Fantasi, Jakarta Aquarium, dan Museum macan.
 ![read1](https://user-images.githubusercontent.com/114675506/213994723-95b105df-b5b3-4352-81d6-506223f42ebe.jpg)
 
 ## Features 
@@ -10,6 +9,9 @@ Aplikasi funtatix ini merupakan aplikasi untuk memesan sebuah tiket. Destinasiny
 - Register
 - Buy Ticket
 - Log Out
+
+##Justification
+
 
 ## Tech
 
