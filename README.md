@@ -10,8 +10,6 @@ Aplikasi funtatix ini merupakan aplikasi untuk memesan dan manajemen sebuah tike
 - Buy Ticket
 - Log Out
 
-##Justification
-
 
 ## Tech
 
